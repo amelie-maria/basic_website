@@ -1,8 +1,7 @@
 
 <html>
   <head>
-    <title>
-      This is my first webpage
+    <title> This is my first webpage
     </title>
   </head>
 
@@ -12,7 +11,7 @@
     <p>
       here is the text of the website
     </p>
-    <a> href="http://google.com"</a>
+    <a href="http://google.com">Google</a>
     
   </body>
 </html>
